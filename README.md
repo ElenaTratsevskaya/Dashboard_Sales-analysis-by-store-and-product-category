@@ -1,4 +1,4 @@
-# Dashboard_Analysis-of-advertising-Yandex.Direct-and-Google-Ads
+# Dashboard_Sales analysis by store and product category
 
 Задач  
 - Проанализировать динамику продаж в целом и разбивку по магазинам
