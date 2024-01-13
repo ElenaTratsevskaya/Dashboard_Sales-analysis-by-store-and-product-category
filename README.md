@@ -1,4 +1,4 @@
-# Dashboard_Sales analysis by store and product category
+# DA dashboard_on sales (Yandex DataLens) on test data
 
 Задач  
 - Проанализировать динамику продаж в целом и разбивку по магазинам
